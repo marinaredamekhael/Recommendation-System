@@ -57,8 +57,3 @@ The dataset contains 452 records with 476 features, including:
 ## Tools and Libraries
 - **Programming Language**: Python
 - **Libraries**: pandas, numpy, sklearn, scipy, matplotlib, seaborn
-
-## Contributors
-- **Marina Reda Abdullah Mekhael** (ID: 221101235)
-- **Mohamed Mosad Fawzy** (ID: 221100611)
-
